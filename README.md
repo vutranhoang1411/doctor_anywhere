@@ -20,4 +20,7 @@ I'm implement Basic authentication with username and password, here is 2 type of
 | password   	| userPass 	| adminPass              	|  
 | permission 	| GET      	| GET, POST, PUT, DELETE 	|  
 
-Please add these value when calling api
+Please add these value when calling api  
+
+### Note
+The container is connect to port 8080 localhost, ie: localhost:8080/tasks
